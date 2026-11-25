@@ -1,2 +1,2 @@
-# odont-luis-castillo
-Página web para el Consultorio Odontológico del Dr. Luis Fernando Castillo ubicado en Los Teques
+# odont-1
+Página web para Consultorio Odontológico ubicado en Los Teques
